@@ -2,7 +2,7 @@ Resolusi versi ke dua
 
 S2
 Menjadi dosen
-* dosen pemograman
+* dosen pemograma
   - C++
   - PHP
 * dosen networkig
@@ -10,4 +10,5 @@ Menjadi dosen
 Peneliti
 Profesional IT
 * IT Security 
+
 
