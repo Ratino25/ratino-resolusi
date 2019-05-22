@@ -3,7 +3,9 @@ Resolusi versi ke dua
 S2
 Menjadi dosen
 * dosen pemograman
+  - Java
+  - PHP
 * dosen networkig
-Peneliti
 Profesional IT
+* IT Security
 
