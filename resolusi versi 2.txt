@@ -4,6 +4,7 @@ S2
 Menjadi dosen
 * dosen pemograman
   - C++
+  - PHP
 * dosen networkig
   - CISCO
 Peneliti
